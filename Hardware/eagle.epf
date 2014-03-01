@@ -1,2 +1,42 @@
 [Eagle]
 Version="06 05 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/pinhead.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/rcl.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/supply1.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/FGPMMOPA6C.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/LED.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/LP2985.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/PCM2705.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/PLL.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/TP4056.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/adxl345.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/bc417.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/bmp085.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/cc2540.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/ds1307_pcf8583.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/kcsx02.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/lm1117.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/max7219.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/max9724.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/micro-sd.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/misc.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/ml.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/sim900.lbr"
+UsedLibrary="D:/Documents/GitHub/eagle-lib/stm32.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="113 115 1278 854"
+State=2
+Number=0
+
+[Desktop]
+Screen="1600 1200"
+Window="Win_1"
